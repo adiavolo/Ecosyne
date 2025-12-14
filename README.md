@@ -196,10 +196,9 @@ Capstone Project – 2025
 * European Space Agency (ESA) for Sentinel-2 data
 * Google Earth Engine for large-scale geospatial processing support
 
----
 
 *Ecosyne aims to bridge the gap between satellite data and sustainable decision-making by making environmental intelligence accessible, interpretable, and actionable.*
 
-```
+
 
 
